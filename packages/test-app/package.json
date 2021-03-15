@@ -33,7 +33,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.3",
     "redux": "^4.0.5",
-    "redux-firestore": "^0.13.0",
+    "redux-firestore": "^0.15.0",
     "shelljs": "^0.8.4",
     "stripe": "^8.84.0",
     "webpack-node-externals": "^2.5.1"
